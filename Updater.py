@@ -1,5 +1,5 @@
 #! python3
-# Update.py - Updates Python packages
+# Updater.py - Updates Python packages
 
 
 import os, pip
